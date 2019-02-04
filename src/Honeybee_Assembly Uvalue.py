@@ -47,9 +47,9 @@ Provided by Honeybee 0.0.64
 """
 
 
-ghenv.Component.Name = 'Honeybee_Assembly Uvalue'
-ghenv.Component.NickName = 'assemblyUvalue'
-ghenv.Component.Message = 'VER 0.0.64\nNOV_20_2018'
+ghenv.Component.Name = 'Honeybee_Assembly Uvalue (DAN)'
+ghenv.Component.NickName = 'assemblyUvalue-DAN'
+ghenv.Component.Message = 'VER 0.0.64\nFEB_04_2019'
 ghenv.Component.IconDisplayMode = ghenv.Component.IconDisplayMode.application
 ghenv.Component.Category = "Honeybee"
 ghenv.Component.SubCategory = "11 | THERM"
